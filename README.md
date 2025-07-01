@@ -1,7 +1,3 @@
-Aquí tienes un ejemplo de README.md personalizado para tu repositorio, basado en que seguiste la guía de Spring y la referencia de compatibilidad de MongoDB con Spring Boot:
-
----
-
 # accessing-data-mongo
 
 Este proyecto es una implementación de ejemplo basada en la guía oficial de Spring: [Accessing Data with MongoDB](https://spring.io/guides/gs/accessing-data-mongodb). Utiliza Spring Boot y Spring Data MongoDB para demostrar cómo conectar, almacenar y consultar documentos en una base de datos MongoDB.
